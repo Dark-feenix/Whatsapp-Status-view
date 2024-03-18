@@ -30,16 +30,13 @@ cd Whatsapp-Status-view && npm start -g pm2 && pm2 start  index.js && pm2 save &
 
 
 ## ` Pair with WhatsApp V1 💚`
-<h2 align="left">  <a href="https://replit.com/@2023lastalone/FENIX-PRINTING-COD-FIX"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+<h2 align="left">  <a href="https://replit.com/@sasifenix9/FEENIX-PRINTING-COD-FIX"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
 </a>
 </h2>
 
 ## 
 
-## ` Pair with WhatsApp V2💛`
-<h2 align="left">  <a href="https://fenix-id-server-printing-code.onrender.com"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
-</a>
-</h2>
+
 
 ## 
 
