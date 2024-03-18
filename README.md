@@ -53,6 +53,14 @@ cd Whatsapp-Status-view && npm start -g pm2 && pm2 start  index.js && pm2 save &
 
 ## `For 24/7 Activation (Termux)`
 
+> DEPLOY ON HEROKU<br>
+
+◍ Copy This Url, Put Like This <template_link><your_github_link>
+
+      https://heroku.com/deploy?template=
+
+  <br>
+
 
 ## ```Connect With Me```
 
