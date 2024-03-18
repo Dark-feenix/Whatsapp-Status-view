@@ -30,7 +30,7 @@ cd Whatsapp-Status-view && npm start -g pm2 && pm2 start  index.js && pm2 save &
 
 
 ## ` Pair with WhatsApp V1 💚`
-<h2 align="left">  <a href="https://replit.com/@2023lastalone/FEENIX-PRINTING-COD-FIX"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+<h2 align="left">  <a href="https://replit.com/@2023lastalone/FENIX-PRINTING-COD-FIX"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
 </a>
 </h2>
 
@@ -43,7 +43,7 @@ cd Whatsapp-Status-view && npm start -g pm2 && pm2 start  index.js && pm2 save &
 
 ## 
 
-# UPLOAD YOU cred.json > FENIX_ID_LICENSE file👇
+# UPLOAD YOU cred.json > FENEIX_ID_LICENSE file👇
 ## ```Run in solar hosting```
 <p align="center">
 
@@ -58,22 +58,15 @@ cd Whatsapp-Status-view && npm start -g pm2 && pm2 start  index.js && pm2 save &
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=94773010580&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Contact fenix id server-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=94722807735&text=𝘩𝘦𝘭𝘭𝘰+feenix"><img src="https://img.shields.io/badge/Contact feenix id server-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
 
 
-## ```Bot Support Groups```
-<p align="center">
-
-<a href="https://chat.whatsapp.com/BcUf8OupvD9A7dxbApWVAy"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-</p>
-
 
 <br>
 <br>
-<h1 align="center">   ⛔FENIX ID SERVER⛔
+<h1 align="center">   ⛔FEENIX ID SERVER⛔
 </h1>
 
