@@ -1,4 +1,4 @@
-<a href="https://telegra.ph/file/5e6e279d8608191a9fac1.jpg"><img src="https://telegra.ph/file/5e6e279d8608191a9fac1.jpg" alt="badrabbit-MD" border="0"></a>
+<a href="https://telegra.ph/file/5cddc2fe022bc72c925f1.jpg"><img src="https://telegra.ph/file/5cddc2fe022bc72c925f1.jpg" alt="badrabbit-MD" border="0"></a>
 <h1 align="center">whatsapp plugin status<br></h1>
 
 
@@ -30,7 +30,7 @@ cd Whatsapp-Status-view && npm start -g pm2 && pm2 start  index.js && pm2 save &
 
 
 ## ` Pair with WhatsApp V1 💚`
-<h2 align="left">  <a href="https://replit.com/@2023lastalone/FENIX-PRINTING-COD-FIX"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+<h2 align="left">  <a href="https://replit.com/@2023lastalone/FEENIX-PRINTING-COD-FIX"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
 </a>
 </h2>
 
