@@ -1,7 +1,7 @@
 {
-  "name": "Fenix id status v2r",
+  "name": "Feenix id status v2r",
   "version": "1.0.0",
-  "description": "Fenix id Status V2!",
+  "description": "Feenix id Status V2!",
   "main": "index.js",
   "type": "module",
   "dependencies": {
